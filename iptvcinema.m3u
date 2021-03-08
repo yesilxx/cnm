@@ -1,0 +1,1177 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-name="TRT1 HD", TRT1 HD
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT2 HD", TRT2 HD
+https://tv-trt2.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT BELGESEL", TRT BELGESEL
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="ATV TV", ATV TV
+https://stream.personamedia.tv/atvhls?type=1&sid=a7c64cef-5dea-4c20-bebf-d6ba0d17fc32&fmt=hls&rend=v_r2
+
+#EXTINF:-1 tvg-name="SHOW TV", SHOW TV
+https://av.livestreamlive.xyz/hls/show.m3u8
+
+#EXTINF:-1 tvg-name="KANAL D", KANAL D
+https://av.livestreamlive.xyz/hls/kanald.m3u8
+
+#EXTINF:-1 tvg-name="STAR TV", STAR TV
+https://av.livestreamlive.xyz/hls/star.m3u8
+
+#EXTINF:-1 tvg-name="FOX", FOX
+http://bazarhd.online:80/307210113622/307210113622/80729?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-name="TV 8", TV 8
+https://av.livestreamlive.xyz/hls/tv8.m3u8
+
+#EXTINF:-1 tvg-name="TV 8.5", TV 8.5
+https://av.livestreamlive.xyz/hls/tv85.m3u8
+
+#EXTINF:-1 tvg-name="DMAX", DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
+
+#EXTINF:-1 tvg-name="BloombergHT", BloombergHT
+https://av.livestreamlive.xyz/hls/bloomberg.m3u8
+
+#EXTINF:-1 tvg-name="NTV", NTV
+https://nt4p9nef.rocketcdn.com/smil:ntvhd.smil/chunklist_b1828000_sltur.m3u8
+
+#EXTINF:-1 tvg-name="Haberturk", Haberturk
+https://av.livestreamlive.xyz/hls/haberturk.m3u8
+
+#EXTINF:-1 tvg-name="TGRT HABER", TGRT Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-name="Koy TV", Koy TV
+https://59cba4d34b678.streamlock.net/canlitv/koytv/chunklist_w1444615866.m3u8
+
+#EXTINF:-1 tvg-name="Yaban TV", Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w1387779828.m3u8
+
+#EXTINF:-1 tvg-name="TLC", TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:-1 tvg-name="NATIONAL GEO", DISCOVERY TURKEY
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/65e3ec94b215288.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-name="DISCOVERY TURK", NATIONAL GEO TURKEY
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/3c331c48c92630f.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-name="Cine 5", Cine 5
+https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w1749675718.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="BEIN SPORT1 HD", BEIN SPORT1 HD
+http://supersonictv.live:25461/903310/034806/72469?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-name="BEIN MOVIES TURK HD", BEIN MOVIES TURK HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/b21ae52fbde03ba.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-name="BEIN MOVIES COMEDY HD", BEIN MOVIES COMEDY HD
+http://fliptv.vip:8011/omer/12345/58227?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-name="BEIN MOVIES DRAMA HD", BEIN MOVIES DRAMA HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/db3bebf0bd1a3d8.m3u8?checkedby:hlscat.com
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17535/cover.jpg?17535" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Tenet (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17535/video.mp4?17535
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17536/cover.jpg?17536" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ağır Romantik (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17536/video.mp4?17536
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17524/cover.jpg?17524" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Prom (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17524/video.mp4?17524
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17511/cover.jpg?17511" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Üstün Taraf High Ground (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17511/video.mp4?17511
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17510/cover.jpg?17510" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Rose Adası"nın İnanılmaz Hikayesi Rose Island (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17510/video.mp4?17510
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17498/cover.jpg?17498" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Noel Çatışması Christmas Crossfire (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17498/video.mp4?17498
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17497/cover.jpg?17497" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mank (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17497/video.mp4?17497
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17486/cover.jpg?17486" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",9 Kere Leyla (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17486/video.mp4?17486
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17485/cover.jpg?17485" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Gizli Bahçe The Secret Garden (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17485/video.mp4?17485
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17484/cover.jpg?17484" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sır: Hayal Etmekten Korkma The Secret: Dare to Dream (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17484/video.mp4?17484
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17465/cover.jpg?17465" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İnsan Yiyenler The Young Cannibals (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17465/video.mp4?17465
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17464/cover.jpg?17464" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sakın Dinleme Voces (Don"t Listen) (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17464/video.mp4?17464
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17460/cover.jpg?17460" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Christmas Chronicles: İkinci Kısım The Christmas Chronicles: Part Two (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17460/video.mp4?17460
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17461/cover.jpg?17461" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Musul Mosul (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17461/video.mp4?17461
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17454/cover.jpg?17454" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hillbilly Elegy (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17454/video.mp4?17454
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17447/cover.jpg?17447" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aman Reis Duymasın (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17447/video.mp4?17447
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17440/cover.jpg?17440" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Oyuncakların Dehşeti Toys of Terror (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17440/video.mp4?17440
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17434/cover.jpg?17434" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Şakrak Jangle"ın Noel Serüveni Jingle Jangle: A Christmas Journey (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17434/video.mp4?17434
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17431/cover.jpg?17431" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Güney İstasyonunda Randevu The Wild Goose Lake (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17431/video.mp4?17431
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17433/cover.jpg?17433" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kızma Birader Ludo (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17433/video.mp4?17433
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17432/cover.jpg?17432" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Onca Yoksulluk Varken The Life Ahead (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17432/video.mp4?17432
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17413/cover.jpg?17413" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yıkılmaz Kale Castle in the Ground (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17413/video.mp4?17413
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17414/cover.jpg?17414" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dipte Breaking Surface (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17414/video.mp4?17414
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17412/cover.jpg?17412" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Noel Hediyesi Bombardımanı Operation Christmas Drop (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17412/video.mp4?17412
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17404/cover.jpg?17404" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Seni Görüyorum I See You (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17404/video.mp4?17404
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17403/cover.jpg?17403" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bronx: Rogue City (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17403/video.mp4?17403
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17402/cover.jpg?17402" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kahramanca Kaybedenler Heroic Losers (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17402/video.mp4?17402
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17405/cover.jpg?17405" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",His House (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17405/video.mp4?17405
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17406/cover.jpg?17406" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kırk Yalan (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17406/video.mp4?17406
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17397/cover.jpg?17397" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Midway (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17397/video.mp4?17397
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17393/cover.jpg?17393" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sosyal ikilem The Social Dilemma (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17393/video.mp4?17393
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17392/cover.jpg?17392" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sakkara"nın Sırları Secrets of the Saqqara Tomb (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17392/video.mp4?17392
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17396/cover.jpg?17396" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Holidate (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17396/video.mp4?17396
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17394/cover.jpg?17394" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bu Gece Ormanda Kimse Uyumuyor Nobody Sleeps in the Woods Tonight (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17394/video.mp4?17394
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17386/cover.jpg?17386" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Tek Only (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17386/video.mp4?17386
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17388/cover.jpg?17388" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kadaver Cadaver (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17388/video.mp4?17388
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17387/cover.jpg?17387" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Asla. Nadiren. Bazen. Her Zaman Never Rarely Sometimes Always (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17387/video.mp4?17387
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17389/cover.jpg?17389" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yokuş Aşağı Downhill (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17389/video.mp4?17389
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17391/cover.jpg?17391" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bitişler. Başlangıçlar Endings. Beginnings (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17391/video.mp4?17391
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17390/cover.jpg?17390" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mutlu Cadılar Bayramı Happy Halloween. ScoobyDoo! (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17390/video.mp4?17390
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17383/cover.jpg?17383" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bir Ay Masalı Over the Moon (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17383/video.mp4?17383
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17384/cover.jpg?17384" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Rebecca (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17384/video.mp4?17384
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17371/cover.jpg?17371" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Şikago Yedilisi"nin Yargılanması The Trial of the Chicago 7 (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17371/video.mp4?17371
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17358/cover.jpg?17358" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hemen Döneriz (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17358/video.mp4?17358
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17355/cover.jpg?17355" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Nuh Tepesi (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17355/video.mp4?17355
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17348/cover.jpg?17348" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hubie"nin Cadılar Bayramı Hubie Halloween (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17348/video.mp4?17348
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17336/cover.jpg?17336" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aşk Tesadüfleri Sever 2 (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17336/video.mp4?17336
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17321/cover.jpg?17321" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The High Note (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17321/video.mp4?17321
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17323/cover.jpg?17323" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Lost Husband (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17323/video.mp4?17323
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17322/cover.jpg?17322" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Proxima (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17322/video.mp4?17322
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17325/cover.jpg?17325" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Lanetli Bağlar The Binding (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17325/video.mp4?17325
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17324/cover.jpg?17324" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Vampirler Bronx"ta Vampires vs. the Bronx (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17324/video.mp4?17324
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17315/cover.jpg?17315" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ölüm Takımı The Kill Team (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17315/video.mp4?17315
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17314/cover.jpg?17314" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ruhlar Evi Ghost House (2017) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17314/video.mp4?17314
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17305/cover.jpg?17305" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",En Uzun Gece Survive the Night (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17305/video.mp4?17305
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17304/cover.jpg?17304" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bir Köpeğin Fantastik Hikayesi Marona"s Fantastic Tale (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17304/video.mp4?17304
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17303/cover.jpg?17303" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Enola Holmes (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17303/video.mp4?17303
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17293/cover.jpg?17293" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Vivarium (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17293/video.mp4?17293
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17294/cover.jpg?17294" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Paramedik El practicante (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17294/video.mp4?17294
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17295/cover.jpg?17295" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Devil All the Time (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17295/video.mp4?17295
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17277/cover.jpg?17277" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Baba Aranıyor Dad Wanted (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17277/video.mp4?17277
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17276/cover.jpg?17276" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Superman: Yarının Adamları Superman: Man of Tomorrow (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17276/video.mp4?17276
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17270/cover.jpg?17270" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bebek Bakıcısı: Katil Kraliçe The Babysitter: Killer Queen (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17270/video.mp4?17270
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17267/cover.jpg?17267" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Konuşan Hayvanlar (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17267/video.mp4?17267
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17266/cover.jpg?17266" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yanık Portakal The Burnt Orange Heresy (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17266/video.mp4?17266
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17265/cover.jpg?17265" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Parazit Gisaengchung (Parasite) (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17265/video.mp4?17265
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17254/cover.jpg?17254" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Her Şeyi Bitirmeyi Düşünüyorum I"m Thinking of Ending Things (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17254/video.mp4?17254
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17253/cover.jpg?17253" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aşk Garanti Love. Guaranteed (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17253/video.mp4?17253
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17247/cover.jpg?17247" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Vücut Kamerası Body Cam (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17247/video.mp4?17247
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17246/cover.jpg?17246" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Anormal Kahramanlar Freaks: You"re One of Us (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17246/video.mp4?17246
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17240/cover.jpg?17240" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yalan Dolan (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17240/video.mp4?17240
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17239/cover.jpg?17239" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Zengo (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17239/video.mp4?17239
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17238/cover.jpg?17238" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Döndüm Ben (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17238/video.mp4?17238
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17237/cover.jpg?17237" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",My Spy (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17237/video.mp4?17237
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17236/cover.jpg?17236" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",I Still Believe (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17236/video.mp4?17236
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17235/cover.jpg?17235" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",All Together Now (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17235/video.mp4?17235
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17234/cover.jpg?17234" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Luce (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17234/video.mp4?17234
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17233/cover.jpg?17233" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hatıra The Souvenir (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17233/video.mp4?17233
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17208/cover.jpg?17208" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Crimes That Bind (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17208/video.mp4?17208
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17200/cover.jpg?17200" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sürprizli Gece The Sleepover (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17200/video.mp4?17200
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17191/cover.jpg?17191" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Deathstroke: Şövalyeler ve Ejderhalar Deathstroke: Knights & Dragons (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17191/video.mp4?17191
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17190/cover.jpg?17190" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",15 Dakika Savaş 15 Minutes of War (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17190/video.mp4?17190
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17182/cover.jpg?17182" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Feride (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17182/video.mp4?17182
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17181/cover.jpg?17181" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Gel Babacığına Come to Daddy (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17181/video.mp4?17181
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17180/cover.jpg?17180" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kurt Saati The Wolf Hour (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17180/video.mp4?17180
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17170/cover.jpg?17170" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mazlum Kuzey & Kuddusi 2 La! Kasada Para Var! (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17170/video.mp4?17170
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17169/cover.jpg?17169" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Photograph (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17169/video.mp4?17169
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17168/cover.jpg?17168" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Project Power (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17168/video.mp4?17168
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17167/cover.jpg?17167" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Baba Parası (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17167/video.mp4?17167
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17166/cover.jpg?17166" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Fearless (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17166/video.mp4?17166
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17161/cover.jpg?17161" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mavi Korku 3 Deep Blue Sea 3 (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17161/video.mp4?17161
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17160/cover.jpg?17160" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Benim Şapşik Köpeğim My Dog Stupid (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17160/video.mp4?17160
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17154/cover.jpg?17154" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Görünmez Yaşam A Vida Invisível (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17154/video.mp4?17154
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17152/cover.jpg?17152" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Av The Hunt (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17152/video.mp4?17152
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17151/cover.jpg?17151" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Work It (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17151/video.mp4?17151
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17147/cover.jpg?17147" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Cep Herkülü: Naim Süleymanoglu (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17147/video.mp4?17147
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17138/cover.jpg?17138" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Berlin. Berlin (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17138/video.mp4?17138
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17026/cover.jpg?17026" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Özgürlük Listesi The F**kIt List (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17026/video.mp4?17026
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17025/cover.jpg?17025" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Travma Merkezi Trauma Center (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17025/video.mp4?17025
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/17/17024/cover.jpg?17024" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Eltilerin Savaşı (2020) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/17/17024/video.mp4?17024
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17023/cover.jpg?17023" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Fire Saga"nın Hikayesi Eurovision Song Contest: The Story of Fire Saga (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17023/video.mp4?17023
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17022/cover.jpg?17022" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kelly Çetesi"nin Gerçek Hikayesi True History of the Kelly Gang (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17022/video.mp4?17022
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17021/cover.jpg?17021" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Desperados (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17021/video.mp4?17021
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17020/cover.jpg?17020" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hustlers (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17020/video.mp4?17020
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17014/cover.jpg?17014" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bıçaklar Çekildi Knives Out (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17014/video.mp4?17014
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17013/cover.jpg?17013" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Riccione Güneşinin Altında Under The Riccione Sun (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17013/video.mp4?17013
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17012/cover.jpg?17012" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hellboy (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17012/video.mp4?17012
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17041/cover.jpg?17041" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Old Guard (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17041/video.mp4?17041
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17058/cover.jpg?17058" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Gentlemen (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17058/video.mp4?17058
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17057/cover.jpg?17057" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ölüler Ölmez The Dead Don"t Die (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17057/video.mp4?17057
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17056/cover.jpg?17056" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Emma. (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17056/video.mp4?17056
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/17/17069/cover.jpg?17069" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Lanetli Çocuk 2 Brahms: The Boy II (2020) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/17/17069/video.mp4?17069
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17068/cover.jpg?17068" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Savunma Sanatı The Art of SelfDefense (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17068/video.mp4?17068
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17089/cover.jpg?17089" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Vahşetin Çağrısı The Call of the Wild (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17089/video.mp4?17089
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17086/cover.jpg?17086" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Saklı Gerçekler La vérité (The Truth) (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17086/video.mp4?17086
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17091/cover.jpg?17091" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Delidolu 2 The Kissing Booth 2 (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17091/video.mp4?17091
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17087/cover.jpg?17087" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sokak Dansı: Çin Step Up China (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17087/video.mp4?17087
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/17/17102/cover.jpg?17102" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Skandal Bombshell (2019) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/17/17102/video.mp4?17102
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17101/cover.jpg?17101" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Fırtına İçin Bir Kurban Offering to the Storm (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17101/video.mp4?17101
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17100/cover.jpg?17100" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Süper Ajanlar Spycies (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17100/video.mp4?17100
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17099/cover.jpg?17099" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kurye The Courier (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17099/video.mp4?17099
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17098/cover.jpg?17098" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Jarhead: Dönüş Kanunu Jarhead: Law of Return (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17098/video.mp4?17098
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17097/cover.jpg?17097" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bayi Toplantısı (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17097/video.mp4?17097
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17110/cover.jpg?17110" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Hater (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17110/video.mp4?17110
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17132/cover.jpg?17132" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Masallardan Geriye Kalan (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17132/video.mp4?17132
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17130/cover.jpg?17130" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Karanlık Sular Dark Waters (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17130/video.mp4?17130
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/17/17129/cover.jpg?17129" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Malibu Rescue: Yeni Dalga Malibu Rescue: The Next Wave (2020) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/17/17129/video.mp4?17129
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/16922/cover.jpg?16922" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Uzun Kız Дылда (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/16922/video.mp4?16922
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/16921/cover.jpg?16921" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dönüş Yolu The Way Back (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/16921/video.mp4?16921
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/16920/cover.jpg?16920" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Resmi Sırlar Official Secrets (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/16920/video.mp4?16920
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/16919/cover.jpg?16919" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ayın Karanlık Yüzü: Hitler"in Çocukları Iron Sky: The Coming Race (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/16919/video.mp4?16919
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/16917/cover.jpg?16917" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Last Days of American Crime (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/16917/video.mp4?16917
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/16925/cover.jpg?16925" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",365 Gün 365 Days (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/16925/video.mp4?16925
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/16937/cover.jpg?16937" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Takip Edenler Them That Follow (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/16937/video.mp4?16937
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/17/16951/cover.jpg?16951" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Biz Böyleyiz (2020) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/17/16951/video.mp4?16951
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/16947/cover.jpg?16947" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Da 5 Bloods (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/16947/video.mp4?16947
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/16946/cover.jpg?16946" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mustang: Yabani At The Mustang (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/16946/video.mp4?16946
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/16969/cover.jpg?16969" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yarına Tek Bilet (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/16969/video.mp4?16969
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/16968/cover.jpg?16968" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hayaller Ülkesi: Gamonya (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/16968/video.mp4?16968
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/16977/cover.jpg?16977" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Zombi Ülkesi: Çift Dokunuş Zombieland: Double Tap (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/16977/video.mp4?16977
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/16976/cover.jpg?16976" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Üç Gün ve Bir Hayat Trois jours et une vie (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/16976/video.mp4?16976
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/16975/cover.jpg?16975" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ritmi Hisset Feel the Beat (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/16975/video.mp4?16975
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/17/16974/cover.jpg?16974" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Lost Bullet (2020) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/17/16974/video.mp4?16974
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/16973/cover.jpg?16973" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Wasp Network (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/16973/video.mp4?16973
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/16972/cover.jpg?16972" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Çürük Elma Black and Blue (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/16972/video.mp4?16972
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/16971/cover.jpg?16971" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Cennet Tepeleri Paradise Hills (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/16971/video.mp4?16971
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/16997/cover.jpg?16997" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Karakomik Filmler 2: Deli (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/16997/video.mp4?16997
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/16996/cover.jpg?16996" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Karakomik Filmler 2: Emanet (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/16996/video.mp4?16996
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/16995/cover.jpg?16995" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Görünmez Adam The Invisible Man (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/16995/video.mp4?16995
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/17005/cover.jpg?17005" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Garez The Grudge (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/17005/video.mp4?17005
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/17/17004/cover.jpg?17004" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kötü Alışkanlık Inherit the Viper (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/17/17004/video.mp4?17004
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17003/cover.jpg?17003" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Küçük Orman Little Woods (2018) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/17003/video.mp4?17003
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/17/17002/cover.jpg?17002" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Suda Ölüm Dead in the Water (2018) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/17/17002/video.mp4?17002
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/16/16782/cover.jpg?16782" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dangerous Lies (2020) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/16/16782/video.mp4?16782
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16771/cover.jpg?16771" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İsimsiz Katiller Killers Anonymous (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16771/video.mp4?16771
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/16/16796/cover.jpg?16796" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bad Boys: Her Zaman Çılgın Bad Boys for Life (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/16/16796/video.mp4?16796
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/16/16805/cover.jpg?16805" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mucize 2: Aşk (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/16/16805/video.mp4?16805
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16802/cover.jpg?16802" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sibyl (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16802/video.mp4?16802
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16801/cover.jpg?16801" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Queen"s Corgi (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16801/video.mp4?16801
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16812/cover.jpg?16812" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ritim Bölümü The Rhythm Section (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16812/video.mp4?16812
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16811/cover.jpg?16811" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Masumiyetin Dayanılmaz Çekiciliği Blanche comme neige (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16811/video.mp4?16811
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/16/16840/cover.jpg?16840" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Güzelliğin Portresi (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/16/16840/video.mp4?16840
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16839/cover.jpg?16839" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dolittle (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16839/video.mp4?16839
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/16/16837/cover.jpg?16837" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yanlış Missy The Wrong Missy (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/16/16837/video.mp4?16837
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16847/cover.jpg?16847" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Cinnet (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16847/video.mp4?16847
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/16/16846/cover.jpg?16846" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Waves (2019) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/16/16846/video.mp4?16846
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/16/16860/cover.jpg?16860" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Gizli Bir Yaşam A Hidden Life (2019) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/16/16860/video.mp4?16860
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16850/cover.jpg?16850" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",New York"ta Yağmurlu Bir Gün A Rainy Day in New York (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16850/video.mp4?16850
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16869/cover.jpg?16869" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ritüel Midsommar (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16869/video.mp4?16869
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16868/cover.jpg?16868" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Patron Gibi Like a Boss (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16868/video.mp4?16868
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16882/cover.jpg?16882" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Queen & Slim (2019) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16882/video.mp4?16882
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16873/cover.jpg?16873" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Justice League Dark: Apokolips War (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16873/video.mp4?16873
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/16900/cover.jpg?16900" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kirpi Sonic Sonic the Hedgehog (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/17/16900/video.mp4?16900
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/17/16899/cover.jpg?16899" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Küçük Little (2019) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/17/16899/video.mp4?16899
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/17/16898/cover.jpg?16898" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Blue Story (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/17/16898/video.mp4?16898
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16652/cover.jpg?16652" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Küçük Kadınlar Little Women (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16652/video.mp4?16652
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/16/16662/cover.jpg?16662" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Merhaba Güzel Vatanım (2019) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/16/16662/video.mp4?16662
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/16/16670/cover.jpg?16670" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Star Wars: Skywalker"ın Yükselişi Star Wars: Episode IX The Rise of Skywalker (2019) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/16/16670/video.mp4?16670
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16669/cover.jpg?16669" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kara Noel Black Christmas (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16669/video.mp4?16669
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16668/cover.jpg?16668" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Üzgünüz. Size Ulaşamadık Sorry We Missed You (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16668/video.mp4?16668
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/16/16685/cover.jpg?16685" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Parts You Lose (2019) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/16/16685/video.mp4?16685
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/16/16684/cover.jpg?16684" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Korku Hikayeleri Scary Stories to Tell in the Dark (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16684/video.mp4?16684
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16693/cover.jpg?16693" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sadece Merhamet Just Mercy (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16693/video.mp4?16693
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/16/16698/cover.jpg?16698" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kral Şakir: Korsanlar Diyarı (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16698/video.mp4?16698
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16704/cover.jpg?16704" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Love. Wedding. Repeat (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16704/video.mp4?16704
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/16/16703/cover.jpg?16703" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Recep İvedik 6 (2019) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/16/16703/video.mp4?16703
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/16/16741/cover.jpg?16741" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Lighthouse (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/16/16741/video.mp4?16741
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/16/16740/cover.jpg?16740" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Rising High (2020) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/16/16740/video.mp4?16740
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16739/cover.jpg?16739" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Toprak ve Kan Earth and Blood (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16739/video.mp4?16739
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16735/cover.jpg?16735" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sergio (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16735/video.mp4?16735
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/16/16734/cover.jpg?16734" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Jumanji: Yeni Seviye Jumanji: The Next Level (2019) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/16/16734/video.mp4?16734
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/16/16733/cover.jpg?16733" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kemiklerin Mirası The Legacy of the Bones (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/16/16733/video.mp4?16733
+#EXTINF:-1 tvg-logo="https://cdn11.openload.monster/storage/movie/16/16725/cover.jpg?16725" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Derin Sular Underwater (2020) | Türkçe Dublaj Filmler
+http://cdn11.openload.monster/storage/movie/16/16725/video.mp4?16725
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/16/16724/cover.jpg?16724" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ajanlar İş Başında Spies in Disguise (2019) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/16/16724/video.mp4?16724
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16720/cover.jpg?16720" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ölümcül Dövüş Efsanesi: Akrebin İntikamı Mortal Kombat Legends: Scorpions Revenge (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16720/video.mp4?16720
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16716/cover.jpg?16716" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Richard Jewell (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16716/video.mp4?16716
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16753/cover.jpg?16753" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bataklığın Sessizliği The Silence of the Marsh (2019) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16753/video.mp4?16753
+#EXTINF:-1 tvg-logo="https://cdn10.openload.monster/storage/movie/16/16757/cover.jpg?16757" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Extraction (2020) | Türkçe Dublaj Filmler
+http://cdn10.openload.monster/storage/movie/16/16757/video.mp4?16757
+#EXTINF:-1 tvg-logo="https://cdn8.openload.monster/storage/movie/16/16790/cover.jpg?16790" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Cinayet Süsü (2019) | Türkçe Dublaj Filmler
+http://cdn8.openload.monster/storage/movie/16/16790/video.mp4?16790
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/16/16786/cover.jpg?16786" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bir Bilsen The Half of It (2020) | Türkçe Dublaj Filmler
+http://cdn6.openload.monster/storage/movie/16/16786/video.mp4?16786
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16785/cover.jpg?16785" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",All Day and a Night (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16785/video.mp4?16785
+#EXTINF:-1 tvg-logo="https://cdn4.openload.monster/storage/movie/16/16783/cover.jpg?16783" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ricos de Amor (2020) | Türkçe Dublaj Filmler
+http://cdn4.openload.monster/storage/movie/16/16783/video.mp4?16783
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16511/cover.jpg?16511" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Öksüz Brooklyn Motherless Brooklyn (2019) | Dram Filmler
+http://cdn6.ovid.monster/storage/movie/16/16511/video.mp4?16511
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16539/cover.jpg?16539" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Annem (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16539/video.mp4?16539
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/16/16538/cover.jpg?16538" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Last Thing He Wanted (2020) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/16/16538/video.mp4?16538
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16537/cover.jpg?16537" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Davetsiz Misafir The Intruder (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16537/video.mp4?16537
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16550/cover.jpg?16550" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hayatın Kıyısında All the Bright Places (2020) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16550/video.mp4?16550
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16557/cover.jpg?16557" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Elektrik Savaşları The Current War (2017) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16557/video.mp4?16557
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16562/cover.jpg?16562" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Monos (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16562/video.mp4?16562
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16568/cover.jpg?16568" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Lucy Gökyüzünde Lucy in the Sky (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16568/video.mp4?16568
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16570/cover.jpg?16570" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",7. Koğuştaki Mucize (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16570/video.mp4?16570
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16581/cover.jpg?16581" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Beyaz Kentin Sessizliği El silencio de la ciudad blanca (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16581/video.mp4?16581
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16580/cover.jpg?16580" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yarının Adamı The Tomorrow Man (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16580/video.mp4?16580
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16596/cover.jpg?16596" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Lost Girls (2020) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16596/video.mp4?16596
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16602/cover.jpg?16602" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bir Şans Daha Last Christmas (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16602/video.mp4?16602
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16601/cover.jpg?16601" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Gokart Tutkusu Go Karts! (2020) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16601/video.mp4?16601
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16611/cover.jpg?16611" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Charlie"nin Melekleri Charlie"s Angels (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16611/video.mp4?16611
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/16/16609/cover.jpg?16609" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Karlar Ülkesi 2 Frozen II (2019) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/16/16609/video.mp4?16609
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16608/cover.jpg?16608" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Superman: Kızıl Evlat Superman: Red Son (2020) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16608/video.mp4?16608
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16610/cover.jpg?16610" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Tavşan Jojo Jojo Rabbit (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16610/video.mp4?16610
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16622/cover.jpg?16622" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Karakomik Filmler: Kaçamak (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16622/video.mp4?16622
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16621/cover.jpg?16621" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Karakomik Filmler: 2 Arada (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16621/video.mp4?16621
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16626/cover.jpg?16626" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Platform El hoyo (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16626/video.mp4?16626
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16625/cover.jpg?16625" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ultras (2020) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16625/video.mp4?16625
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16635/cover.jpg?16635" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Soğuk İntikam Cold Pursuit (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16635/video.mp4?16635
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16641/cover.jpg?16641" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Şimdi Yandık! Playing with Fire (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16641/video.mp4?16641
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16646/cover.jpg?16646" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Durdurulamaz Güç Bloodshot (2020) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16646/video.mp4?16646
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/16/16651/cover.jpg?16651" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yırtıcı Kuşlar Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/16/16651/video.mp4?16651
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16650/cover.jpg?16650" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kıyamet Yakındır The Decline (2020) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16650/video.mp4?16650
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16649/cover.jpg?16649" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Babamın Mutfağı Uncorked (2020) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16649/video.mp4?16649
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16330/cover.jpg?16330" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yıldızlara Doğru Ad Astra (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16330/video.mp4?16330
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16349/cover.jpg?16349" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hayalet Hikayeleri Ghost Stories (2020) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16349/video.mp4?16349
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16348/cover.jpg?16348" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Şeytan Göz Demon Eye (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16348/video.mp4?16348
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16347/cover.jpg?16347" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Arctic (2018) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16347/video.mp4?16347
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16356/cover.jpg?16356" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sesinde Aşk Var (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16356/video.mp4?16356
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16355/cover.jpg?16355" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Astral Seyahat (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16355/video.mp4?16355
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16378/cover.jpg?16378" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Loro (2018) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16378/video.mp4?16378
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16372/cover.jpg?16372" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kaçış Oyunu Play or Die (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16372/video.mp4?16372
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16368/cover.jpg?16368" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İkikez Yaşa Birkez Sev Live Twice Love Once (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16368/video.mp4?16368
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/16/16419/cover.jpg?16419" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Joker (2019) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/16/16419/video.mp4?16419
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16406/cover.jpg?16406" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Acı ve Zafer Dolor y gloria (2019) | Türkçe Dublaj Filmler
+" scrolling=?16406
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16405/cover.jpg?16405" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",A Fall from Grace (2020) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16405/video.mp4?16405
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16422/cover.jpg?16422" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Downton Abbey (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16422/video.mp4?16422
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16428/cover.jpg?16428" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İkizler Projesi Gemini Man (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16428/video.mp4?16428
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16441/cover.jpg?16441" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Doktor Uyku Doctor Sleep (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16441/video.mp4?16441
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16433/cover.jpg?16433" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Düşmanların En İyisi The Best of Enemies (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16433/video.mp4?16433
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16453/cover.jpg?16453" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Uncut Gems (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16453/video.mp4?16453
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16452/cover.jpg?16452" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yeti Efsanesi Abominable (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16452/video.mp4?16452
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16487/cover.jpg?16487" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Malefiz 2: Kötülüğün Gücü Maleficent: Mistress of Evil (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16487/video.mp4?16487
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16481/cover.jpg?16481" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Horse Girl (2020) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16481/video.mp4?16481
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16473/cover.jpg?16473" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İstilacılar Snatchers (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16473/video.mp4?16473
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16471/cover.jpg?16471" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Terminatör: Kara Kader Terminator: Dark Fate (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16471/video.mp4?16471
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16470/cover.jpg?16470" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sahtekar The Good Liar (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16470/video.mp4?16470
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/16/16495/cover.jpg?16495" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hareket Sekiz (2019) | Aksiyon
+http://cdn11.ovid.monster/storage/movie/16/16495/video.mp4?16495
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16494/cover.jpg?16494" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sevdiğim Tüm Erkeklere 2 To All the Boys: P.S. I Still Love You (2020) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16494/video.mp4?16494
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16516/cover.jpg?16516" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Asfaltın Kralları Ford v Ferrari (2019) | Aksiyon
+http://cdn10.ovid.monster/storage/movie/16/16516/video.mp4?16516
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16515/cover.jpg?16515" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Addams Ailesi The Addams Family (2019) | Aile
+http://cdn10.ovid.monster/storage/movie/16/16515/video.mp4?16515
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16117/cover.jpg?16117" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ma (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16117/video.mp4?16117
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16116/cover.jpg?16116" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dolemite Is My Name (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16116/video.mp4?16116
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16113/cover.jpg?16113" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Siccin 6 (2019) | Yerli film izle
+http://cdn10.ovid.monster/storage/movie/16/16113/video.mp4?16113
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16084/cover.jpg?16084" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Eli (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16084/video.mp4?16084
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16083/cover.jpg?16083" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Siyah Giyen Adamlar: Global Tehdit Men in Black: International (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16083/video.mp4?16083
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16135/cover.jpg?16135" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The King (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16135/video.mp4?16135
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16132/cover.jpg?16132" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Enzo: Yağmurda Yarış Sanatı The Art of Racing in the Rain (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16132/video.mp4?16132
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16144/cover.jpg?16144" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bozkır: Kuşlara Bak Kuşlara (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16144/video.mp4?16144
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16188/cover.jpg?16188" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yesterday (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16188/video.mp4?16188
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16185/cover.jpg?16185" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Deprem Kuşu Earthquake Bird (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16185/video.mp4?16185
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16181/cover.jpg?16181" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sihirli Plan Klaus (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16181/video.mp4?16181
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16170/cover.jpg?16170" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Paradise Beach (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16170/video.mp4?16170
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16199/cover.jpg?16199" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",O: Bölüm 2 It: Chapter Two (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16199/video.mp4?16199
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16198/cover.jpg?16198" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hızlı ve Öfkeli 9: Hobbs ve Shaw Fast & Furious Presents: Hobbs & Shaw (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16198/video.mp4?16198
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16210/cover.jpg?16210" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Knight Before Christmas (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16210/video.mp4?16210
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16228/cover.jpg?16228" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Saklambaç Ready or Not (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16228/video.mp4?16228
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16219/cover.jpg?16219" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İrlandalı The Irishman (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16219/video.mp4?16219
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16233/cover.jpg?16233" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Atlantique (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16233/video.mp4?16233
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16253/cover.jpg?16253" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Evlilik Hikayesi Marriage Story (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16253/video.mp4?16253
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16296/cover.jpg?16296" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Denemeye Değer Long Shot (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16296/video.mp4?16296
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16295/cover.jpg?16295" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Cehennem Gecesi Burn (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16295/video.mp4?16295
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16287/cover.jpg?16287" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",6 Underground (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16287/video.mp4?16287
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16304/cover.jpg?16304" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sır Tutabilir Misin? Can You Keep a Secret? (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16304/video.mp4?16304
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16316/cover.jpg?16316" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Gerçeğin Peşinde Angel of Mine (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16316/video.mp4?16316
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16314/cover.jpg?16314" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Geniş Aile: Komşu Kızı (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16314/video.mp4?16314
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16313/cover.jpg?16313" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Fırıncının Karısı (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16313/video.mp4?16313
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/16312/cover.jpg?16312" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kızgın Kuşlar Filmi 2 The Angry Birds Movie 2 (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/16312/video.mp4?16312
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16311/cover.jpg?16311" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Two Popes (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16311/video.mp4?16311
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/15909/cover.jpg?15909" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Nebula (2018) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/15909/video.mp4?15909
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/15932/cover.jpg?15932" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",American Factory (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/15932/video.mp4?15932
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15931/cover.jpg?15931" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kuyu The Hole in the Ground (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/15931/video.mp4?15931
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/15927/cover.jpg?15927" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bana Bir Soygun Yaz 2 (2018) | Komedi
+http://cdn10.ovid.monster/storage/movie/16/15927/video.mp4?15927
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/15926/cover.jpg?15926" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Cin Deresi: Müsfer (2019) | Korku
+http://cdn8.ovid.monster/storage/movie/16/15926/video.mp4?15926
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/15954/cover.jpg?15954" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Enes Batur: Gerçek Kahraman (2019) | Komedi
+http://cdn4.ovid.monster/storage/movie/16/15954/video.mp4?15954
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15966/cover.jpg?15966" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kaçış Planı 3 Escape Plan: The Extractors (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/15966/video.mp4?15966
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15977/cover.jpg?15977" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sibel (2018) | Dram Filmler
+http://cdn6.ovid.monster/storage/movie/16/15977/video.mp4?15977
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/15984/cover.jpg?15984" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Örümcek Adam: Evden Uzakta SpiderMan: Far from Home (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/15984/video.mp4?15984
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/16/15983/cover.jpg?15983" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aladdin (2019) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/16/15983/video.mp4?15983
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/15989/cover.jpg?15989" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kapı (2019) | Yerli film izle
+http://cdn8.ovid.monster/storage/movie/16/15989/video.mp4?15989
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15992/cover.jpg?15992" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Çat Kapı Aşk (2019) | Yerli film izle
+http://cdn6.ovid.monster/storage/movie/16/15992/video.mp4?15992
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16002/cover.jpg?16002" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Annabelle 3 Annabelle Comes Home (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16002/video.mp4?16002
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16007/cover.jpg?16007" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Türk İşi Dondurma (2019) | Yerli film izle
+http://cdn10.ovid.monster/storage/movie/16/16007/video.mp4?16007
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16006/cover.jpg?16006" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dünya Hali (2018) | Yerli film izle
+http://cdn7.ovid.monster/storage/movie/16/16006/video.mp4?16006
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16027/cover.jpg?16027" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Suç Unsuru (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16027/video.mp4?16027
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16025/cover.jpg?16025" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ayın Gölgesinde In the Shadow of the Moon (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16025/video.mp4?16025
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16024/cover.jpg?16024" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Evcil Hayvanların Gizli Yaşamı 2 The Secret Life of Pets 2 (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/16024/video.mp4?16024
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16031/cover.jpg?16031" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Stuber (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16031/video.mp4?16031
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16045/cover.jpg?16045" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",In the Tall Grass (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16045/video.mp4?16045
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16055/cover.jpg?16055" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",El Camino: Bir Breaking Bad Filmi El Camino: A Breaking Bad Movie (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16055/video.mp4?16055
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16053/cover.jpg?16053" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aykut Enişte (2019) | Türkçe Dublaj Filmler
+" scrolling=?16053
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/16058/cover.jpg?16058" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Fractured (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/16/16058/video.mp4?16058
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16056/cover.jpg?16056" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Oyuncak Hikayesi 4 Toy Story 4 (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16056/video.mp4?16056
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/16119/cover.jpg?16119" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Laundromat (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/16119/video.mp4?16119
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/16118/cover.jpg?16118" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Çıngıraklı Yılan Rattlesnake (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/16118/video.mp4?16118
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15751/cover.jpg?15751" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Savaştan Sonra The Aftermath (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15751/video.mp4?15751
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15746/cover.jpg?15746" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mucizeler Parkı Wonder Park (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15746/video.mp4?15746
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15788/cover.jpg?15788" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aslı Gibidir (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/15/15788/video.mp4?15788
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15787/cover.jpg?15787" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İnancın Mucizesi Breakthrough (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15787/video.mp4?15787
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15780/cover.jpg?15780" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sonra After (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15780/video.mp4?15780
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15775/cover.jpg?15775" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Denge Shaft (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15775/video.mp4?15775
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15771/cover.jpg?15771" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Shazam! 6 Güç Shazam! (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15771/video.mp4?15771
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15808/cover.jpg?15808" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hayvan Mezarlığı Pet Sematary (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/15/15808/video.mp4?15808
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15807/cover.jpg?15807" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Alita: Savaş Meleği Alita: Battle Angel (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/15/15807/video.mp4?15807
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15800/cover.jpg?15800" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aşk Bu Mu? (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/15/15800/video.mp4?15800
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15799/cover.jpg?15799" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yanımda Kal (2018) | Dram Filmler
+http://cdn8.ovid.monster/storage/movie/15/15799/video.mp4?15799
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15823/cover.jpg?15823" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bizi Hatırla (2018) | Dram Filmler
+http://cdn10.ovid.monster/storage/movie/15/15823/video.mp4?15823
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15816/cover.jpg?15816" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Point Blank (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15816/video.mp4?15816
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/15/15815/cover.jpg?15815" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kidnapping Stella (2019) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/15/15815/video.mp4?15815
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15813/cover.jpg?15813" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Siccin 5 (2018) | Korku
+http://cdn8.ovid.monster/storage/movie/15/15813/video.mp4?15813
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15831/cover.jpg?15831" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Biz Us (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15831/video.mp4?15831
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15830/cover.jpg?15830" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dumbo (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15830/video.mp4?15830
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15839/cover.jpg?15839" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aslan Kral The Lion King (2019) TS | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15839/video.mp4?15839
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15870/cover.jpg?15870" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ali (2019) | Komedi
+http://cdn6.ovid.monster/storage/movie/15/15870/video.mp4?15870
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15866/cover.jpg?15866" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Red Sea Diving Resort (Operation Brothers) (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15866/video.mp4?15866
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15855/cover.jpg?15855" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Büyük Hack The Great Hack (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15855/video.mp4?15855
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/15881/cover.jpg?15881" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Öldür Beni Sevgilim (2019) | Telif Gelenler
+http://cdn4.ovid.monster/storage/movie/16/15881/video.mp4?15881
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15879/cover.jpg?15879" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Çakallarla Dans 5 (2018) | Komedi
+http://cdn6.ovid.monster/storage/movie/16/15879/video.mp4?15879
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/15920/cover.jpg?15920" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Üç Harfliler: Adak (2019) | Korku
+http://cdn7.ovid.monster/storage/movie/16/15920/video.mp4?15920
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15919/cover.jpg?15919" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Cinayet Treni DRailed (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/15919/video.mp4?15919
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/15916/cover.jpg?15916" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Rocketman (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/16/15916/video.mp4?15916
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/16/15914/cover.jpg?15914" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Altızlar Sextuplets (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/16/15914/video.mp4?15914
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15913/cover.jpg?15913" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Şeytanın Oğlu Brightburn (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/16/15913/video.mp4?15913
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/15910/cover.jpg?15910" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yalan Dolan (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/16/15910/video.mp4?15910
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/15/15613/cover.jpg?15613" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Müslüm (2018) | Dram Filmler
+http://cdn11.ovid.monster/storage/movie/15/15613/video.mp4?15613
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15615/cover.jpg?15615" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Miss Bala (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15615/video.mp4?15615
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15630/cover.jpg?15630" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Arada (2018) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15630/video.mp4?15630
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15629/cover.jpg?15629" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Tatsız Tatil Wine Country (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15629/video.mp4?15629
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15616/cover.jpg?15616" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ölümcül Labirent Escape Room (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15616/video.mp4?15616
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15637/cover.jpg?15637" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Deli ve Dahi The Professor and the Madman (2018) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15637/video.mp4?15637
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15650/cover.jpg?15650" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Donbass (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15650/video.mp4?15650
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15649/cover.jpg?15649" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dünü Kurtarmak See You Yesterday (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15649/video.mp4?15649
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15681/cover.jpg?15681" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Robin Hood (2018) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/15/15681/video.mp4?15681
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15669/cover.jpg?15669" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Perfection (2018) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15669/video.mp4?15669
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15658/cover.jpg?15658" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bir Aşk İki Hayat (2019) | Komedi
+http://cdn7.ovid.monster/storage/movie/15/15658/video.mp4?15658
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15692/cover.jpg?15692" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yol Arkadaşım 2 (2018) | Komedi
+http://cdn8.ovid.monster/storage/movie/15/15692/video.mp4?15692
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15690/cover.jpg?15690" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Lanetli Gözyaşları The Curse of La Llorona (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15690/video.mp4?15690
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15698/cover.jpg?15698" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Destroyer (2018) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/15/15698/video.mp4?15698
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15697/cover.jpg?15697" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kötülük Evi Bad Samaritan (2018) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/15/15697/video.mp4?15697
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15696/cover.jpg?15696" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Gece Dünyayı Yuttuğunda The Night Eats the World (2018) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15696/video.mp4?15696
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15695/cover.jpg?15695" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sığınaktaki Kız Girl in the Bunker (2018) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15695/video.mp4?15695
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15694/cover.jpg?15694" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Oh. Ramona! (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15694/video.mp4?15694
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15720/cover.jpg?15720" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hababam Sınıfı Yeniden (2019) | Komedi
+http://cdn8.ovid.monster/storage/movie/15/15720/video.mp4?15720
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15719/cover.jpg?15719" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ben Anne I Am Mother (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15719/video.mp4?15719
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15738/cover.jpg?15738" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Murder Mystery (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/15/15738/video.mp4?15738
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15737/cover.jpg?15737" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Deniz ve Güneş (2018) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/15/15737/video.mp4?15737
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15731/cover.jpg?15731" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",4N1K 2 (2018) | Komedi
+http://cdn6.ovid.monster/storage/movie/15/15731/video.mp4?15731
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15724/cover.jpg?15724" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Borç Harç (2019) | Komedi
+http://cdn7.ovid.monster/storage/movie/15/15724/video.mp4?15724
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15765/cover.jpg?15765" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kaptan Marvel Captain Marvel (2019) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/15/15765/video.mp4?15765
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15760/cover.jpg?15760" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kafir (2018) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15760/video.mp4?15760
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15759/cover.jpg?15759" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Beats (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15759/video.mp4?15759
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/4/3752/cover.jpg?3752" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Zor Ölüm 5: Ölmek İçin Güzel Bir Gün A Good Day to Die Hard (2013) Türkçe Dublaj | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/4/3752/video.mp4?3752
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/4/3751/cover.jpg?3751" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hansel ve Gretel: Cadı Avcıları Hansel & Gretel: Witch Hunters (2013) Türkçe Dublaj | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/4/3751/video.mp4?3751
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/4/3749/cover.jpg?3749" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sette Komedi Les Kaïra (2012) Türkçe Dublaj | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/4/3749/video.mp4?3749
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3021/cover.jpg?3021" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Uzun Hikaye (2012) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3021/video.mp4?3021
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15516/cover.jpg?15516" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",The Highwaymen (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/15/15516/video.mp4?15516
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15503/cover.jpg?15503" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sarayın Gözdesi The Favourite (2018) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15503/video.mp4?15503
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15502/cover.jpg?15502" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sadık Dostum A Dog"s Way Home (2019) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15502/video.mp4?15502
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/15/15529/cover.jpg?15529" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",White Boy Rick (2018) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/15/15529/video.mp4?15529
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15528/cover.jpg?15528" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yangın Yeri Wildlife (2018) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15528/video.mp4?15528
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15524/cover.jpg?15524" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",10x10 (2018) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15524/video.mp4?15524
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/15/15523/cover.jpg?15523" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Fırtına Anı Durante la tormenta (Mirage) (2018) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/15/15523/video.mp4?15523
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15530/cover.jpg?15530" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bizim için Şampiyon: Bold Pilot (2018) | Dram Filmler
+http://cdn8.ovid.monster/storage/movie/15/15530/video.mp4?15530
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15534/cover.jpg?15534" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İz Bırakma Leave No Trace (2018) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/15/15534/video.mp4?15534
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15542/cover.jpg?15542" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sessizlik The Silence (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15542/video.mp4?15542
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15541/cover.jpg?15541" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mary Poppins Dönüyor Mary Poppins Returns (2018) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15541/video.mp4?15541
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15539/cover.jpg?15539" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bebek Geliyorum Demez (2018) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15539/video.mp4?15539
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15554/cover.jpg?15554" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",ÖrümcekAdam: Örümcek Evreninde SpiderMan: Into the SpiderVerse (2018) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/15/15554/video.mp4?15554
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/15/15553/cover.jpg?15553" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mükemmel Buluşma The Perfect Date (2019) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/15/15553/video.mp4?15553
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15581/cover.jpg?15581" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Glass (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15581/video.mp4?15581
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15573/cover.jpg?15573" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İtalyan Usulü Aşk Little Italy (2018) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15573/video.mp4?15573
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/15/15572/cover.jpg?15572" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kral Olacak Çocuk The Kid Who Would Be King (2019) | Türkçe Dublaj Filmler
+http://cdn11.ovid.monster/storage/movie/15/15572/video.mp4?15572
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15566/cover.jpg?15566" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Someone Great (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/15/15566/video.mp4?15566
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15602/cover.jpg?15602" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Eşitlik Savaşçısı On the Basis of Sex (2018) | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/15/15602/video.mp4?15602
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15601/cover.jpg?15601" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Erkekler Ne Ister What Men Want (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15601/video.mp4?15601
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15606/cover.jpg?15606" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Deliler: Fatih"in Fermanı (2018) | Savaş
+http://cdn7.ovid.monster/storage/movie/15/15606/video.mp4?15606
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15605/cover.jpg?15605" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Geçen Yaz The Last Summer (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15605/video.mp4?15605
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/3/3422/cover.jpg?3422" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Denizci 3: Gizli Tehlike The Marine: Homefront (2013) Türkçe Dublaj | Aksiyon
+http://cdn8.ovid.monster/storage/movie/3/3422/video.mp4?3422
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3421/cover.jpg?3421" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İyi Geceler Adalet 3 Goodnight for Justice: Queen of Hearts (2013) Türkçe Dublaj | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3421/video.mp4?3421
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3420/cover.jpg?3420" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kibarca öldürmek Killing Them Softly (2012) Türkçe Dublaj | Gerilim Filmler
+http://cdn6.ovid.monster/storage/movie/3/3420/video.mp4?3420
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/4/3587/cover.jpg?3587" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Topragin çocuklari (2012) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/4/3587/video.mp4?3587
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/4/3586/cover.jpg?3586" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Görünmeyenler (2012) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/4/3586/video.mp4?3586
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3580/cover.jpg?3580" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",N"aapcaz Şimdi? (2012) | Yerli film izle
+http://cdn6.ovid.monster/storage/movie/3/3580/video.mp4?3580
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3563/cover.jpg?3563" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",G.D.O. KaraKedi (2013) | Yerli film izle
+http://cdn7.ovid.monster/storage/movie/3/3563/video.mp4?3563
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3527/cover.jpg?3527" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Suç Çetesi Gangster Squad (2013) Türkçe Dublaj | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3527/video.mp4?3527
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3500/cover.jpg?3500" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Cek Riçer Jack Reacher (2012) Türkçe Dublaj | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3500/video.mp4?3500
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3499/cover.jpg?3499" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kıyamet Günü The Impossible (2012) Türkçe Dublaj | Dram Filmler
+http://cdn6.ovid.monster/storage/movie/3/3499/video.mp4?3499
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/3/3497/cover.jpg?3497" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yargıç Dredd Dredd 3D (2012) Türkçe Dublaj | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/3/3497/video.mp4?3497
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15494/cover.jpg?15494" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ölümcül Makineler Mortal Engines (2018) | Aksiyon
+http://cdn6.ovid.monster/storage/movie/15/15494/video.mp4?15494
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15486/cover.jpg?15486" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bumblebee (2018) | Aksiyon
+http://cdn10.ovid.monster/storage/movie/15/15486/video.mp4?15486
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15480/cover.jpg?15480" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aquaman (2018) | Aksiyon
+http://cdn4.ovid.monster/storage/movie/15/15480/video.mp4?15480
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15479/cover.jpg?15479" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Her Şey Seninle Güzel (2018) | Komedi
+http://cdn8.ovid.monster/storage/movie/15/15479/video.mp4?15479
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/15/15478/cover.jpg?15478" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Börü (2018) | Aksiyon
+http://cdn11.ovid.monster/storage/movie/15/15478/video.mp4?15478
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15476/cover.jpg?15476" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ortak The Hard Way (2019) | Aksiyon
+http://cdn10.ovid.monster/storage/movie/15/15476/video.mp4?15476
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15469/cover.jpg?15469" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Üçlü Sınır Triple Frontier (2019) | Aksiyon
+http://cdn10.ovid.monster/storage/movie/15/15469/video.mp4?15469
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15466/cover.jpg?15466" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Free Solo (2018) | Belgeseller
+http://cdn7.ovid.monster/storage/movie/15/15466/video.mp4?15466
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15465/cover.jpg?15465" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Zor Oyun: Kapanmayan Bir Hesap (2019) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15465/video.mp4?15465
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15457/cover.jpg?15457" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hedefim Sensin (2018) | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/15/15457/video.mp4?15457
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15456/cover.jpg?15456" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Örumcek Ağındaki Kız The Girl in the Spider"s Web (2018) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15456/video.mp4?15456
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15448/cover.jpg?15448" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Rüzgarı Dinleyen Çocuk The Boy Who Harnessed the Wind (2019) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/15/15448/video.mp4?15448
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15447/cover.jpg?15447" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Göktaşı (2018) | Komedi
+http://cdn7.ovid.monster/storage/movie/15/15447/video.mp4?15447
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15437/cover.jpg?15437" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yeşil Rehber Green Book (2018) | Türkçe Dublaj Filmler
+http://cdn10.ovid.monster/storage/movie/15/15437/video.mp4?15437
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/15/15434/cover.jpg?15434" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Isn"t It Romantic (2019) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/15/15434/video.mp4?15434
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/15/15433/cover.jpg?15433" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Suicide Squad: Cehennemin Bedeli Suicide Squad: Hell to Pay (2018) | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/15/15433/video.mp4?15433
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/4/3756/cover.jpg?3756" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Laz Vampir Tirakula (2012) | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/4/3756/video.mp4?3756
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/4/3753/cover.jpg?3753" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Atatürk’ün Fedaisi Topal Osman (2013) | Dram Filmler
+http://cdn7.ovid.monster/storage/movie/4/3753/video.mp4?3753
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3202/cover.jpg?3202" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Frankenweenie (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3202/video.mp4?3202
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3190/cover.jpg?3190" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Striptiz Kulübü − Magic Mike (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3190/video.mp4?3190
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3180/cover.jpg?3180" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İçime Şeytan Kaçtı (2013) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3180/video.mp4?3180
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3179/cover.jpg?3179" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Savaşın 5 Günü − 5 Days of War (2011) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3179/video.mp4?3179
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/3/3177/cover.jpg?3177" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Aşk Yeniden − Hope Springs (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/3/3177/video.mp4?3177
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3233/cover.jpg?3233" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sibirya’da Kayıp − Ausgerechnet Sibirien (2012) Türkçe Dublaj izle − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3233/video.mp4?3233
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3232/cover.jpg?3232" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dalgaların Peşinde − Chasing Mavericks (2012) Türkçe Dublaj izle − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3232/video.mp4?3232
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3218/cover.jpg?3218" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Hobbit: Beklenmedik Yolculuk − The Hobbit: An Unexpected Journey (2012) Türkçe Dublaj − HDRip HDRip | Aile
+http://cdn7.ovid.monster/storage/movie/3/3218/video.mp4?3218
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3217/cover.jpg?3217" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Pi’nin Yaşamı − Life of Pi (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3217/video.mp4?3217
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3215/cover.jpg?3215" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sessiz Tepe: Karabasan − Silent Hill: Revelation (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3215/video.mp4?3215
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3214/cover.jpg?3214" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Maksimum Tehlike − Maximum Conviction (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3214/video.mp4?3214
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/3/3212/cover.jpg?3212" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kıyamet Kitabı − Doomsday Book (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/3/3212/video.mp4?3212
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/3/3293/cover.jpg?3293" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Karanlık Gerçek A Dark Truth (2012) Türkçe Dublaj izle HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/3/3293/video.mp4?3293
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3281/cover.jpg?3281" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bana Bir Soygun Yaz (2012) DVDRip HDRip | Yerli film izle
+http://cdn6.ovid.monster/storage/movie/3/3281/video.mp4?3281
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/3/3264/cover.jpg?3264" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",10 Yıl Sonra 10 Years (2012) Türkçe Dublaj izle HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/3/3264/video.mp4?3264
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3250/cover.jpg?3250" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Usta The Master (2012) HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3250/video.mp4?3250
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3417/cover.jpg?3417" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Çanakkale: Yolun Sonu (2013) HDRip HDRip | Yerli film izle
+http://cdn6.ovid.monster/storage/movie/3/3417/video.mp4?3417
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3388/cover.jpg?3388" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Çakallarla Dans 2: Hastasıyız Dede (2012) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3388/video.mp4?3388
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/3/3033/cover.jpg?3033" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",CM101MMXI Fundamentals (2013) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/3/3033/video.mp4?3033
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3340/cover.jpg?3340" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Demir Yumruklu Adam The Man with the Iron Fists (2012) Türkçe Dublaj izle HDRip | Aksiyon
+http://cdn6.ovid.monster/storage/movie/3/3340/video.mp4?3340
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3326/cover.jpg?3326" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Evim Sensin (2012) HDRip HDRip | Yerli film izle
+http://cdn6.ovid.monster/storage/movie/3/3326/video.mp4?3326
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/3/3322/cover.jpg?3322" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Кукольный дом Dollhouse (2012) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/3/3322/video.mp4?3322
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3321/cover.jpg?3321" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Oyunbozan Ralph WreckIt Ralph (2012) Türkçe Dublaj izle HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3321/video.mp4?3321
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3296/cover.jpg?3296" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Zaman Sınırı Deadline (2012) Türkçe Dublaj izle HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3296/video.mp4?3296
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/3/3495/cover.jpg?3495" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Romantik Komedi (2010) | Yerli film izle
+http://cdn8.ovid.monster/storage/movie/3/3495/video.mp4?3495
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3494/cover.jpg?3494" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Çakallarla Dans (2010) | Yerli film izle
+http://cdn7.ovid.monster/storage/movie/3/3494/video.mp4?3494
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3488/cover.jpg?3488" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Elveda Katya (2012) | Yerli film izle
+http://cdn6.ovid.monster/storage/movie/3/3488/video.mp4?3488
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/3/3486/cover.jpg?3486" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Babamın Sesi (2012) | Aile
+http://cdn4.ovid.monster/storage/movie/3/3486/video.mp4?3486
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/2952/cover.jpg?2952" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Moskova&#039;nın Şifresi: Temel (2012) | Komedi
+http://cdn6.ovid.monster/storage/movie/3/2952/video.mp4?2952
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3113/cover.jpg?3113" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Tepenin Ardı (2012) | Yerli film izle
+http://cdn7.ovid.monster/storage/movie/3/3113/video.mp4?3113
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/2032/cover.jpg?2032" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Eyvah Eyvah (2010) HDRip HDRip | Yerli film izle
+http://cdn4.ovid.monster/storage/movie/2/2032/video.mp4?2032
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1728/cover.jpg?1728" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Transit (2012) Türkçe Dublaj − BRRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/1728/video.mp4?1728
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1714/cover.jpg?1714" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Karanlıklar Ülkesi: Uyanış − Underworld 4: Awakening (2012) Türkçe Dublaj − BRRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/1714/video.mp4?1714
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/2797/cover.jpg?2797" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Tehlikeli Takip − End Of Watch (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/2797/video.mp4?2797
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/2664/cover.jpg?2664" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",I"ll Always Know What You Did Last Summer (2006) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/2664/video.mp4?2664
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/2622/cover.jpg?2622" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Cesur − Brave (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/2622/video.mp4?2622
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/2/2518/cover.jpg?2518" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İnanılmaz Örümcek Adam − The Amazing Spider−Man (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/2/2518/video.mp4?2518
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/2/2508/cover.jpg?2508" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sağ Salim (2012) HDRip HDRip | Yerli film izle
+http://cdn6.ovid.monster/storage/movie/2/2508/video.mp4?2508
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3116/cover.jpg?3116" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Anna Karenina (2012) Türkçe Dublaj / HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3116/video.mp4?3116
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3115/cover.jpg?3115" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Dikkat Yumruk Geliyor − Here Comes the Boom (2012) Türkçe Dublaj / HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3115/video.mp4?3115
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3112/cover.jpg?3112" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Vücut (2011) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3112/video.mp4?3112
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/3/3030/cover.jpg?3030" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Vahşiler − Savages (2012) Türkçe Dublaj izle − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/3/3030/video.mp4?3030
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3029/cover.jpg?3029" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Yabancı − El Gringo (2012) Türkçe Dublaj izle − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3029/video.mp4?3029
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/2839/cover.jpg?2839" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Pazarları Hiç Sevmem (2012) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/2839/video.mp4?2839
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/2807/cover.jpg?2807" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Çanakkale 1915 (2012) HDRip HDRip | Yerli film izle
+http://cdn7.ovid.monster/storage/movie/3/2807/video.mp4?2807
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/3/2799/cover.jpg?2799" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Mar (2012) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/3/2799/video.mp4?2799
+#EXTINF:-1 tvg-logo="https://film-modu.com/wp-content/uploads/2019/03/organize-isler-2005-hdrip-hdrip-izle-film-modu.jpg?" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Organize İşler (2005) HDRip HDRip | Yerli film izle
+http://cdn7.ovid.monster/storage/movie/3/2798/video.mp4?
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/3/3173/cover.jpg?3173" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Uçuş − Flight (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn6.ovid.monster/storage/movie/3/3173/video.mp4?3173
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/3/3168/cover.jpg?3168" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Sokağın Sonundaki Ev − House at the End of the Street (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/3/3168/video.mp4?3168
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3167/cover.jpg?3167" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Skyfall (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3167/video.mp4?3167
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/3/3165/cover.jpg?3165" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Otel Transilvanya − Hotel Transylvania (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/3/3165/video.mp4?3165
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3164/cover.jpg?3164" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Tutsak − Chained (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3164/video.mp4?3164
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/3/3153/cover.jpg?3153" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Araf (2012) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn8.ovid.monster/storage/movie/3/3153/video.mp4?3153
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3137/cover.jpg?3137" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Gergedan Mevsimi − Fasle kargadan (2012) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3137/video.mp4?3137
+#EXTINF:-1 tvg-logo="https://cdn7.ovid.monster/storage/movie/3/3211/cover.jpg?3211" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Evrenin Askerleri: İntikam Günü − Universal Soldier: Day of Reckoning (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn7.ovid.monster/storage/movie/3/3211/video.mp4?3211
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/3/3210/cover.jpg?3210" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Ay Kadar Büyük Bir Gülücük − A Smile As Big As The Moon (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/3/3210/video.mp4?3210
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1576/cover.jpg?1576" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kurtuluş Son Durak (2012) HDRip HDRip | Yerli film izle
+http://cdn4.ovid.monster/storage/movie/2/1576/video.mp4?1576
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1568/cover.jpg?1568" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Bendeyar (2011) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/1568/video.mp4?1568
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1560/cover.jpg?1560" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Behzat Ç. Seni Kalbime Gömdüm (2011) DVDRip HDRip | Yerli film izle
+http://cdn4.ovid.monster/storage/movie/2/1560/video.mp4?1560
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1559/cover.jpg?1559" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Devrimden Sonra (2011) DVDRip HDRip | Yerli film izle
+http://cdn4.ovid.monster/storage/movie/2/1559/video.mp4?1559
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1557/cover.jpg?1557" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Press (2010) DVDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/1557/video.mp4?1557
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1713/cover.jpg?1713" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İlk Yenilmez: Kaptan Amerika − Captain America: The First Avenger (2011) Türkçe Dublaj − BRRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/1713/video.mp4?1713
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1693/cover.jpg?1693" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",İstanbul − Isztambul (2011) DVDRip HDRip | Yerli film izle
+http://cdn4.ovid.monster/storage/movie/2/1693/video.mp4?1693
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1687/cover.jpg?1687" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Son Vurgun − Contraband (2012) Türkçe Dublaj − BRRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/1687/video.mp4?1687
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1685/cover.jpg?1685" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kurtlar Vadisi: Filistin (2011) HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/1685/video.mp4?1685
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1683/cover.jpg?1683" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Kurtlar Vadisi: Irak (2006) HDRip HDRip | Yerli film izle
+http://cdn4.ovid.monster/storage/movie/2/1683/video.mp4?1683
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1681/cover.jpg?1681" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Recep İvedik 3 (2010) DVDRip HDRip | Yerli film izle
+http://cdn4.ovid.monster/storage/movie/2/1681/video.mp4?1681
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/1679/cover.jpg?1679" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Recep İvedik (2008) DVDRip HDRip | Yerli film izle
+http://cdn4.ovid.monster/storage/movie/2/1679/video.mp4?1679
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/2330/cover.jpg?2330" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Testere − Saw (2004) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/2330/video.mp4?2330
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/2182/cover.jpg?2182" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Siyah Giyen Adamlar 3 − Men in Black III (2012) Türkçe Dublaj − HDRip HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/2182/video.mp4?2182
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/2/2101/cover.jpg?2101" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Fetih 1453 (2012) HQ HDRip | Türkçe Dublaj Filmler
+http://cdn4.ovid.monster/storage/movie/2/2101/video.mp4?2101
+#EXTINF:-1 tvg-logo="https://cdn3.ovid.monster/storage/movie/1/630/cover.jpg?630" group-title="(VOD2 En Son Eklenen Filmler) CINEMA",Acı Aşk (2009) DVDRip HDRip | Türkçe Dublaj Filmler
+http://cdn3.ovid.monster/storage/movie/1/630/video.mp4?630
+
+#EXTINF:-1 tvg-logo="http://cdn8.openload.monster/storage/movie/17/17097/cover.jpg?17097" group-title="(VOD2 Yerli film) CINEMA",Bayi Toplantısı (2020) |IMDb: 4.6 | Tür: Komedi | Yerli Film
+http://cdn8.openload.monster/storage/movie/17/17097/video.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn8.openload.monster/storage/movie/16/16790/cover.jpg?16790" group-title="(VOD2 Yerli film) CINEMA",Cinayet Süsü (2019) |IMDb: 6.8 | Tür: Komedi | Suç | Yerli Film
+https://cdn8.openload.monster/storage/movie/16/16790/video.mp4
+
+#EXTINF:-1 tvg-logo="https://filmw.net/thumb_/180x260-1/wp-content/uploads/2020/05/su-ve-ates.jpg" group-title="(VOD2 Yerli film) CINEMA",Su ve Ateş izle (2013) |IMDb: 6.2 | Tür: Dram- Romantik | Yerli Film
+https://sithmanifest.com/enCoder/filmler/su-ve-ates/master/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn10.ovid.monster/storage/movie/16/16570/cover.jpg?16570" group-title="(VOD2 Yerli film) CINEMA",Koğuştaki Mucize (2019) |IMDb: 8.3 | Tür: Drama | Yerli film
+https://cdn10.ovid.monster/storage/movie/16/16570/video.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn8.ovid.monster/storage/movie/16/16539/cover.jpg?16539" group-title="(VOD2 Yerli film) CINEMA",Annem (2019) |IMDb: 5.8 | Tür: Drama | Yerli film
+https://cdn8.ovid.monster/storage/movie/16/16539/video.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn11.ovid.monster/storage/movie/16/16662/cover.jpg?16662" group-title="(VOD2 Yerli film) CINEMA",Merhaba Güzel Vatanım (2019) |IMDb: 5.1 | Tür: Biyografi | Drama | Yerli film
+https://cdn11.ovid.monster/storage/movie/16/16662/video.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn8.openload.monster/storage/movie/16/16698/cover.jpg?16698" group-title="(VOD2 Yerli film) CINEMA",Kral Şakir: Korsanlar Diyarı (2019) |IMDb: 4.7 | Tür: Animasyon | Macera | Yerli film
+https://cdn8.ovid.monster/storage/movie/16/16698/video.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn11.openload.monster/storage/movie/16/16703/cover.jpg?16703" group-title="(VOD2 Yerli film) CINEMA",Recep İvedik 6 (2019) |IMDb: 2.7 | Tür: Komedi | Yerli film
+https://cdn11.openload.monster/storage/movie/16/16703/video.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn8.ovid.monster/storage/movie/16/16622/cover.jpg?16622" group-title="(VOD2 Yerli film) CINEMA",Karakomik Filmler: Kaçamak (2019) |IMDb: 5.6 | Tür: Komedi | Yerli film
+https://cdn8.ovid.monster/storage/movie/16/16622/video.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn6.ovid.monster/storage/movie/16/16621/cover.jpg?16621" group-title="(VOD2 Yerli film) CINEMA",Karakomik Filmler: 2 Arada (2019) |IMDb: 6.4 | Tür: Komedi | Yerli film
+https://cdn6.ovid.monster/storage/movie/16/16621/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/16/16495/cover.jpg?16495" group-title="(VOD2 Yerli film) CINEMA",Hareket Sekiz (2019) |IMDb: 5.6 | Tür: Aksiyon | Komedi | Yerli film
+https://cdn11.ovid.monster/storage/movie/16/16495/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16356/cover.jpg?16356" group-title="(VOD2 Yerli film) CINEMA",Sesinde Aşk Var (2019) |IMDb: 4.6 | Tür: Romantik | Komedi | Müzik | Yerli film
+https://cdn10.ovid.monster/storage/movie/16/16356/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16113/cover.jpg?16113" group-title="(VOD2 Yerli film) CINEMA",Siccin 6 (2019) |IMDb: 6.0 | Tür: Yerli Korku Filmi
+https://cdn10.ovid.monster/storage/movie/16/16113/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/16007/cover.jpg?16007" group-title="(VOD2 Yerli film) CINEMA",Türk İşi Dondurma (2019) |IMDb: 6.4 | Tür: Tarihi | Dram | Macera | Yerli film
+https://cdn10.ovid.monster/storage/movie/16/16007/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15992/cover.jpg?15992" group-title="(VOD2 Yerli film) CINEMA",Çat Kapı Aşk (2019) |IMDb: 3.4 | Tür: Komedi | Romantik | Yerli film
+https://cdn6.ovid.monster/storage/movie/16/15992/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15977/cover.jpg?15977" group-title="(VOD2 Yerli film) CINEMA",Sibel (2018) |IMDb: 6.9 | Tür: Dram | Yerli film
+https://cdn6.ovid.monster/storage/movie/16/15977/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn4.ovid.monster/storage/movie/16/15954/cover.jpg?15954" group-title="(VOD2 Yerli film) CINEMA",Enes Batur: Gerçek Kahraman (2019) |IMDb: 3.0 | Tür: Komedi | Yerli film
+https://cdn4.ovid.monster/storage/movie/16/15954/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/16/15926/cover.jpg?15926" group-title="(VOD2 Yerli film) CINEMA",Cin Deresi: Müsfer (2019) |IMDb: 5.3 | Tür: Korku | Yerli film
+https://cdn8.ovid.monster/storage/movie/16/15926/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/16/15927/cover.jpg?15927" group-title="(VOD2 Yerli film) CINEMA",Bana Bir Soygun Yaz 2 (2018) |IMDb: 3.3 | Tür: Komedi | Yerli film
+https://cdn10.ovid.monster/storage/movie/16/15927/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/16/15879/cover.jpg?15879" group-title="(VOD2 Yerli film) CINEMA",Çakallarla Dans 5 (2018) |IMDb: 3.8 | Tür: Komedi | Yerli film
+https://cdn6.ovid.monster/storage/movie/16/15879/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15870/cover.jpg?15870" group-title="(VOD2 Yerli film) CINEMA",Ali (2019) |IMDb: 4.9 | Tür: Komedi | Yerli film
+https://cdn6.ovid.monster/storage/movie/15/15870/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15813/cover.jpg?15813" group-title="(VOD2 Yerli film) CINEMA",Siccin 5 (2018) |IMDb: 6.0 | Tür: Korku | Yerli film
+https://cdn8.ovid.monster/storage/movie/15/15813/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn10.ovid.monster/storage/movie/15/15823/cover.jpg?15823" group-title="(VOD2 Yerli film) CINEMA",Bizi Hatırla (2018) |IMDb: 7.4 | Tür: Dram | Yerli film
+https://cdn10.ovid.monster/storage/movie/15/15823/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15799/cover.jpg?15799" group-title="(VOD2 Yerli film) CINEMA",Yanımda Kal (2018) |IMDb: 6.1 | Tür: Dram | Romantik | Yerli film
+https://cdn8.ovid.monster/storage/movie/15/15799/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn6.ovid.monster/storage/movie/15/15731/cover.jpg?15731" group-title="(VOD2 Yerli film) CINEMA",4N1K 2 (2018) |IMDb: 4.4 | Tür: Komedi | Romantik | Yerli film
+https://cdn6.ovid.monster/storage/movie/15/15731/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15720/cover.jpg?15720" group-title="(VOD2 Yerli film) CINEMA",Hababam Sınıfı Yeniden (2019) |IMDb: 2.2 | Tür: Komedi | Yerli film
+https://cdn8.ovid.monster/storage/movie/15/15720/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15692/cover.jpg?15692" group-title="(VOD2 Yerli film) CINEMA",Yol Arkadaşım 2 |IMDb: 5.9 | Tür: Komedi | Yerli film
+https://cdn8.ovid.monster/storage/movie/15/15692/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15692/cover.jpg?15692" group-title="(VOD2 Yerli film) CINEMA",Yol Arkadaşım 2 |IMDb: 5.9 | Tür: Macera | Komedi | Yerli film
+https://cdn8.ovid.monster/storage/movie/15/15692/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/15/15613/cover.jpg?15613" group-title="(VOD2 Yerli film) CINEMA",Müslüm (2018) |IMDb: 7.8 | Tür: Biyografi | Dram | Müzik | Yerli film
+https://cdn11.ovid.monster/storage/movie/15/15613/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15530/cover.jpg?15530" group-title="(VOD2 Yerli film) CINEMA",Bizim için Şampiyon: Bold Pilot (2018) |IMDb: 8.4 | Tür: Dram | Romantik | Spor | Yerli film
+https://cdn8.ovid.monster/storage/movie/15/15530/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn11.ovid.monster/storage/movie/15/15478/cover.jpg?15478" group-title="(VOD2 Yerli film) CINEMA",Börü (2018) |IMDb: 6.9 | Tür: Aksiyon | Gerilim | Suç | Savaş | Yerli film
+https://cdn11.ovid.monster/storage/movie/15/15478/video.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn8.ovid.monster/storage/movie/15/15479/cover.jpg?15479" group-title="(VOD2 Yerli film) CINEMA",Her Şey Seninle Güzel (2018) |IMDb: 3.5 | Tür: Komedi | Romantik | Yerli film
+https://cdn8.ovid.monster/storage/movie/15/15479/video.mp4
+
+#EXTINF:-1 tvg-name="Paramparca", ER Paramparca
+https://www218.ff-01.com/token=G9JeERNV2jjifWHhNrBZfg/1615164847/31.223.0.0/147/5/6a/5e90e217b0b36a279cf94f353c9af6a5-1080p.mp4
+
+#EXTINF:-1 tvg-name="American Kamasutra", American Kamasutra
+https://www949.ff-02.com/token=wrJQfYfq6NnXH7S3UrjGpw/1615165429/31.223.0.0/145/c/fe/f1f1e56585e07162ddb46ee52286ffec-1080p.mp4
+
+
+#EXTINF:-1 tvg-name="High Society ", High Society 
+https://www420.ff-01.com/token=Z2u2NJAY638exC9-k4fFZw/1615165597/31.223.0.0/43/9/87/308a75c94201692230678b6886538879-1080p.mp4
